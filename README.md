@@ -1,4 +1,5 @@
 # 📦 SERVICE 02 — Dropshipping Setup
+For lead generation services, see the contact information in this README.
 
 > **SNTL84 Digital Services · Surat, India**
 > *₹0 upfront inventory. Start selling in 10 days.*
@@ -82,3 +83,7 @@ Contact                       : https://wa.me/919727413309
 ---
 
 *© 2026 SNTL84 · Golden Lotus DesiDevloper · All rights reserved.*
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
